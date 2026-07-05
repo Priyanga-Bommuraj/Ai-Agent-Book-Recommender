@@ -1,11 +1,25 @@
-<div align="center">
+# LibrarySense AI
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+LibrarySense AI is an intelligent Library Assistant Agent built using FastAPI, Groq LLM, MongoDB, HTML, CSS, JavaScript, and Docker.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+* AI-powered book recommendations
+* Natural language book search
+* Borrow and return management
+* Due date reminders
+* Fine calculation
+* AI-generated book summaries
+* Personalized recommendations
+* Secure user authentication
+* Responsive and modern web interface
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Tech Stack
 
-</div>
+* **Frontend:** HTML, CSS, JavaScript
+* **Backend:** FastAPI (Python)
+* **Database:** MongoDB
+* **LLM:** Groq (Llama)
+* **Deployment:** Docker
+
+This project demonstrates prompt engineering, LLM integration, full-stack web development, database management, and containerized deployment through an intelligent AI-powered library management system.
