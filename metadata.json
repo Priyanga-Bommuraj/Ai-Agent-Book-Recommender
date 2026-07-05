@@ -1,0 +1,6 @@
+{
+  "name": "LibrarySense AI",
+  "description": "Intelligent Library Assistant Agent featuring AI book recommendations, book summaries, interactive chat, borrow-return tracking, overdue fine calculations, and an administrative dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
